@@ -12,4 +12,10 @@ git push
 cd jaseci
 ```
 
-
+## the full commit journet explained
+``` 
+git add .
+git commit -m "description"
+git push
+done.
+```
