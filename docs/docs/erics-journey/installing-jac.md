@@ -8,15 +8,15 @@ Next, configure your Ubuntu by setting your desired username and password.
 >### **TIP**
 >You will not see your characters appear when typing the password. Carefully type your password twice to set it. You will be prompted if you type it incorrectly.
 
-## Install Python 3.18
+## Install Python 3.8
  
-Ubuntu 20 typically comes with 3.18. However, confirm your python version with:
+Ubuntu 20 typically comes with 3.8. However, confirm your python version with:
 ```
 python --version
 ```
-You must be running **3.18.10** or you'll experience errors.
+You must be running **3.8.10** or you'll experience errors.
 
-If you need to reinstall Python 3.18, start by typing:
+If you need to reinstall Python 3.8, start by typing:
 ```
 sudo apt install python3
 ```
