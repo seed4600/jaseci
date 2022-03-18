@@ -1,25 +1,3 @@
-## Markdown baby
-
-## to commit in the jaseci folder type:
-```
-git add .
-git commit -m "This is my first commit"
-git push 
-```
-
-## to select Jaseci folder
-```
-cd jaseci
-```
-
-## the full commit journet explained
-``` 
-git add .
-git commit -m "description"
-git push
-done.
-```
-
 # Installing Jaseci
 For the best Jaseci experience, you will need to install both Ubuntu 20 and Git.
 
@@ -58,10 +36,13 @@ sudo pip3 install jaseci
 ```
 You will Jaseci start to install. Agree to any prompts. 
 
-Next, let's ensure you are accessing the right git URL. Type:
+Next, let's ensure you are accessing the right git URL. Copy the relevant Jaseci GIT url from Github. Next, type:
 ``` 
 git clone "URL"
 ```
+>### **TIP**
+>Ubuntu doesn't use the same copy/paste functionality as windows. When copying the Git URL, click the copy button then return to Ubuntu and immediately right click to paste the copied URL.
+
 Once complete, you are ready to code. Type:
 ``` 
 cd jaseci
